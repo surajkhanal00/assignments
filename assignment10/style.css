@@ -1,0 +1,40 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+
+}
+.page-wrapper{
+    display: flex;
+    height: 150px;
+    width: 350px;
+    background-color: blue;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.inside-wrapper{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 200px;
+    margin: auto;
+}
+.box-1{
+    background-color: green;
+    height: 40px;
+}
+.box-2{
+    background-color: #CCB191;
+    height: 75px;
+}
+.box-3{
+    background-color: #D66D22;
+    height: 40px;
+}

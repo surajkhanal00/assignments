@@ -1,0 +1,39 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+  
+
+.page-wrapper{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    color: white;
+    background-color: black;
+}
+
+.box-1{
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+}
+.box-2{
+    background-color: red;
+    height: 50px;
+    width: 50px;
+    margin-left: 50px;
+}
+.box-3{
+    background-color: green;
+    height: 50px;
+    width: 50px;
+    margin-left: 100px;
+}
+.box-4{
+    background-color: yellow;
+    height: 50px;
+    width: 50px;
+    margin-left: 150px;
+}

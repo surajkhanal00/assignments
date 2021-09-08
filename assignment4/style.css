@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+.page-wrapper{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    color: white;
+    background-color: blue;
+}
+
+.top-wrapper{
+    margin-top: 100px;
+    background-color: black;
+    height: 100vh;
+    width: 100%;
+}
